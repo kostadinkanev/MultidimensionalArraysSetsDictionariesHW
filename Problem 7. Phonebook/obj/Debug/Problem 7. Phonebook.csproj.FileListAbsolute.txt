@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe.config
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.pdb
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.pdb

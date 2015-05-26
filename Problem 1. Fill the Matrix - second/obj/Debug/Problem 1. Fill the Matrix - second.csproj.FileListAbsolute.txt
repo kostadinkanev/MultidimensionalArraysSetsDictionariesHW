@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - second\bin\Debug\Problem_1.Fill_the_Matrix___second.exe.config
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - second\bin\Debug\Problem_1.Fill_the_Matrix___second.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - second\bin\Debug\Problem_1.Fill_the_Matrix___second.pdb
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - second\obj\Debug\Problem_1.Fill_the_Matrix___second.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - second\obj\Debug\Problem_1.Fill_the_Matrix___second.pdb

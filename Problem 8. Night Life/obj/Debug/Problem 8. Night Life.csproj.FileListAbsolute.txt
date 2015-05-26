@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.exe.config
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.pdb
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 8. Night Life\obj\Debug\Problem_8.Night_Life.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 8. Night Life\obj\Debug\Problem_8.Night_Life.pdb

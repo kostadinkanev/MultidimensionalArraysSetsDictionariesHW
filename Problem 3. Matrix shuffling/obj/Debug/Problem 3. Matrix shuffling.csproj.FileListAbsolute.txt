@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe.config
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.pdb
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 3. Matrix shuffling\obj\Debug\Problem 3. Matrix shuffling.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.pdb

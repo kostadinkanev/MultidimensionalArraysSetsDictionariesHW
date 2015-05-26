@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe.config
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.pdb
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.pdb

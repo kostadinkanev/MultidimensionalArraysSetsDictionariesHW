@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - first\bin\Debug\Problem_1.Fill_the_Matrix___first.exe.config
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - first\bin\Debug\Problem_1.Fill_the_Matrix___first.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - first\bin\Debug\Problem_1.Fill_the_Matrix___first.pdb
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - first\obj\Debug\Problem 1. Fill the Matrix - first.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - first\obj\Debug\Problem_1.Fill_the_Matrix___first.exe
+E:\C#\Advanced C# may 2015\MultidimensionalArraysSetsDictionariesHW\Problem 1. Fill the Matrix - first\obj\Debug\Problem_1.Fill_the_Matrix___first.pdb
